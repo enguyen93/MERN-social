@@ -16,7 +16,6 @@ class Experience extends Component {
         <td>{exp.company}</td>
         <td>{exp.title}</td>
         <td>
-            {console.log(<Moment format="YYYY/MM/DD">{exp.to}</Moment>)}
           <Moment format="YYYY/MM/DD">{exp.from}</Moment> - 
           {/* Null for some reason doesn't want to work in place of '' */}
           {exp.to === '' ? (
