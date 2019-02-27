@@ -9,8 +9,8 @@ const validateExperienceInput = require("../../validation/experience");
 const validateEducationInput = require("../../validation/education");
 
 // Loading models
-const User = require("../../models/User");
 const Profile = require("../../models/Profile");
+const User = require("../../models/User");
 
 // @route  GET api/profile/test
 // @desc   Tests profile route
@@ -118,7 +118,7 @@ router.post(
     if (req.body.bio) profileFields.bio = req.body.bio;
     if (req.body.status) profileFields.status = req.body.status;
     if (req.body.githubusername)
-    profileFields.githubusername = req.body.githubusername;
+      profileFields.githubusername = req.body.githubusername;
     // skills split into an array
     if (typeof req.body.skills !== "undefined") {
       profileFields.skills = req.body.skills.split(",");
