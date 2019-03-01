@@ -66,7 +66,7 @@ class Navbar extends Component {
         <nav className="navbar navbar-expand-sm navbar-dark bg-dark mb-4">
           <div className="container">
             <Link className="navbar-brand" to="/">
-              AnimeConnector
+              Developer Connections
             </Link>
             <button
               className="navbar-toggler"
@@ -82,7 +82,7 @@ class Navbar extends Component {
                 <li className="nav-item">
                   <Link className="nav-link" to="/profiles">
                     {" "}
-                    Weebs
+                    Developers
                   </Link>
                 </li>
               </ul>

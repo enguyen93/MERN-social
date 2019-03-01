@@ -12,10 +12,10 @@ class Landing extends Component {
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center">
-                <h1 className="display-3 mb-4">Anime Connections</h1>
+                <h1 className="display-3 mb-4">Developer Connections</h1>
                 <p className="lead">
                   {" "}
-                  Create an anime profile/portfolio, share posts and get reviews from other weebs
+                  Create a profile/portfolio, share posts and get reviews from other developers
                 </p>
                 <hr />
                 <Link to="/register" className="btn btn-lg btn-info mr-2">

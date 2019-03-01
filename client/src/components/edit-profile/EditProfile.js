@@ -183,7 +183,7 @@ class CreateProfile extends Component {
         <div className="container">
           <div className="row">
             <div className="col-md-8 m-auto">
-              <h1 className="display-4 text-center">Edit Your Weeb Profile</h1>
+              <h1 className="display-4 text-center">Edit Your Developer Profile</h1>
               <p className="lead text-center">
                 Let's change some information to make your profile stand out
               </p>
