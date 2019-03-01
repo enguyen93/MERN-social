@@ -134,7 +134,7 @@ class AddEducation extends Component {
                   value={this.state.description}
                   onChange={this.onChange}
                   error={errors.description}
-                  info="Tell us about the your experience at school!"
+                  info="Tell us about your experience at school!"
                 />
                 <input
                   type="submit"
