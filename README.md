@@ -8,3 +8,5 @@ it shows their Github Repos (subject to change), people can make a post about so
 Like & dislike functionality
 
 # Please check out my other projects, [Here!](https://github.com/enguyen93)
+
+![Developers Page](https://github.com/enguyen93/MERN-social/blob/master/client/src/img/Developers.png?raw=true)
