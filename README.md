@@ -10,3 +10,9 @@ Like & dislike functionality
 # Please check out my other projects, [Here!](https://github.com/enguyen93)
 
 ![Developers Page](https://github.com/enguyen93/MERN-social/blob/master/client/src/img/Developers.png?raw=true)
+
+![Profile Creation Page](https://github.com/enguyen93/MERN-social/blob/master/client/src/img/dashboard.png?raw=true)
+
+![Landing Page](https://github.com/enguyen93/MERN-social/blob/master/client/src/img/landing.jpg?raw=true)
+
+![Profile Page](https://github.com/enguyen93/MERN-social/blob/master/client/src/img/profile.png?raw=true)
